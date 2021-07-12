@@ -16,7 +16,7 @@
 <p align="center" align="right">
  <a href="https://www.instagram.com/m_song_05/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-thebadge&logo=Instagram&logoColor=white"/>
   &nbsp;&nbsp;&nbsp;</a>
- <img alt="Discord" src="https://img.shields.io/badge/이주원1120-%237289DA.svg?style=for-thebadge&logo=discord&logoColor=white"/>
+ <img alt="Discord" src="https://img.shields.io/badge/이줜#8880-%237289DA.svg?style=for-thebadge&logo=discord&logoColor=white"/>
   &nbsp;&nbsp;&nbsp;
   <p align="center" align="right">
   	<img alt="Slack" src="https://img.shields.io/badge/이주원-4A154B?style=for-thebadge&logo=slack&logoColor=white"/>
