@@ -11,7 +11,6 @@
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-<img alt="HTML5" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 <h3 align="center">•••</h3>
 <p align="center" align="right">
