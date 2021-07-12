@@ -2,7 +2,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Juwon!&fontAlign=80&fontAlignY=40&color=gradient)
 <h1 align="center">👋 Hi there, </h1>
  <p align="center">
-😏 my name is LeeJuwon
+😏 my name is Lee Juwon
    <p align="center">☁ I am majoring in AWS.
  <p align="center">🏫 I'm a student in Gwangju Software Meister highschool.
 
@@ -33,7 +33,7 @@
  
  ![LeeJuwon's github stats](https://github-readme-stats.vercel.app/api?username=Msong1107&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)</p>
 <!--  
-**Msong1107/Msong1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Su-per/Su-per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 N
 Here are some ideas to get you started:
 
