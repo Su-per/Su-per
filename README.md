@@ -13,7 +13,9 @@
  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+ 
 </p>
+
 <h3 align="center">•••</h3>
 <p align="center" align="right">
  <a href="mailto:juwoon7163@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -21,8 +23,9 @@
 </p>
   <p align="center" align="right">
  
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-per)](https://github.com/anuraghazra/github-readme-stats)
  ![LeeJuwon's github stats](https://github-readme-stats.vercel.app/api?username=Su-per&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)</p>
+
 <!--  
 **Su-per/Su-per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 N
