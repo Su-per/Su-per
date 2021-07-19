@@ -6,26 +6,17 @@
    <p align="center">☁ I am majoring in AWS.
  <p align="center">🏫 I'm a student in Gwangju Software Meister highschool.
 
-<h3 align="center">✨ Language skil ✨ </h3>
+<h3 align="center">✨ Develop skills ✨ </h3>
  <p align="center">
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </p>
 <h3 align="center">•••</h3>
 <p align="center" align="right">
- <a href="https://www.instagram.com/m_song_05/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-thebadge&logo=Instagram&logoColor=white"/>
-  &nbsp;&nbsp;&nbsp;</a>
- <img alt="Discord" src="https://img.shields.io/badge/이줜8880-%237289DA.svg?style=for-thebadge&logo=discord&logoColor=white"/>
-  &nbsp;&nbsp;&nbsp;
-  <p align="center" align="right">
-  	<img alt="Slack" src="https://img.shields.io/badge/이주원-4A154B?style=for-thebadge&logo=slack&logoColor=white"/>
-</a>&nbsp;&nbsp;&nbsp;
- <a href="https://www.facebook.com/profile.php?id=100007886291523"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-thebadge&logo=Facebook&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white"/>
-
-
+ <a href="mailto:juwoon7163@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/이줜8880-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </p>
   <p align="center" align="right">
  
