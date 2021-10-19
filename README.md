@@ -33,3 +33,8 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
+
+### 🎁 My statistics
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Su-per&show_icons=true&hide_border=true&count_private=true)](https://github.com/Su-per)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-per&hide_langs_below=0.5)](https://github.com/Su-per)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunrabibt123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
