@@ -1,7 +1,7 @@
 ## 👋&nbsp; Hi there!
 <p>
    I'm <b>Backend Developer</b> using Python FastAPI 🚀<br/>
-  Sometimes I develop another framework like Flask or Django, but prefer FastAPI.<br/>
+  Sometimes I develop another framework like Flask, but prefer FastAPI.<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
