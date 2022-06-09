@@ -10,7 +10,7 @@
 + :email: My email : juwoon7163@gmail.com
 + :balloon: My Discord : 이줜#8880
 
-### 💪 Skills
+### 💪  Skills
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
