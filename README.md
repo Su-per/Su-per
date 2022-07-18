@@ -10,7 +10,7 @@
 + :balloon: My Discord : 이줜#8880
 
 ### 💪  Skills
-#### Platforms & Languages
+#### Platform & Language
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
