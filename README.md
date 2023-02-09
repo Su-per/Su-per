@@ -1,38 +1,10 @@
 ## 👋&nbsp; Hi there!
-<p>
-   I'm <b>Backend Developer</b> using Python FastAPI 🚀<br/>
-  Sometimes I develop another framework like Flask, but prefer FastAPI.<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
-</p>
 
 + :floppy_disk: My Techblog : [Su___per](https://velog.io/@su___per) <br />
 + :email: My email : juwoon7163@gmail.com
-+ :balloon: My Discord : 이줜#8880
 
-### 💪  Skills
-#### Platform & Language
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-
-  
-
-</p>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
-
-</p>
-
-#### Tools
-<p>
- <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
- <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-</p>
+### 💪 Certifications
+<a href="https://www.credly.com/badges/8a6c7616-53d4-4705-b7ba-866b21585708/public_url"><img src="https://user-images.githubusercontent.com/69895368/203920072-95e6f79e-bacb-4290-a1db-cdced5c26ca5.png" width="75" height="75"/></a>
 
 ### 🎁 My statistics
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Su-per&show_icons=true&hide_border=true&count_private=true)](https://github.com/Su-per)
