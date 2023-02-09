@@ -4,7 +4,7 @@
 + :email: My email : juwoon7163@gmail.com
 
 ### 💪 Certifications
-<a href="https://www.credly.com/badges/8a6c7616-53d4-4705-b7ba-866b21585708/public_url"><img src="https://user-images.githubusercontent.com/69895368/203920072-95e6f79e-bacb-4290-a1db-cdced5c26ca5.png" width="75" height="75"/></a>
+<a href="https://www.credly.com/badges/8a6c7616-53d4-4705-b7ba-866b21585708/public_url"><img src="https://user-images.githubusercontent.com/60950583/217791193-c6044720-a7f4-4e1b-ad6a-70ce91604864.png" width="100" height="100"/></a>
 
 ### 🎁 My statistics
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Su-per&show_icons=true&hide_border=true&count_private=true)](https://github.com/Su-per)
