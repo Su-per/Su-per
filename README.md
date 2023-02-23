@@ -1,6 +1,6 @@
 ## 👋&nbsp; Hi there!
 
-+ :floppy_disk: My Techblog : [Su___per](https://velog.io/@su___per) <br />
++ :floppy_disk: My Techblog : [Su___per](https://blex.me/@Su-per) <br />
 + :email: My email : juwoon7163@gmail.com
 
 ### 💪 Certifications
